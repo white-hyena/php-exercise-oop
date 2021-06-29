@@ -2,13 +2,17 @@
     "name": "codelouisville/php-exercise-1",
     "description": "Code Louisville PHP Exercise 1",
     "require": {
-        "php": ">=5.5",
-        "phpunit/phpunit": "4.*"
+        "php": "^7.4|^8.0",
+        "phpunit/phpunit": "9.*"
     },
     "authors": [
         {
             "name": "Jason McCreary",
             "email": "jason@pureconcepts.net"
+        },
+        {
+            "name": "Tadas Varinauskas",
+            "email": "tadas.tv@gmail.com"
         }
     ]
 }
